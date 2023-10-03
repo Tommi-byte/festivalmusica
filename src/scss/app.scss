@@ -1,5 +1,3 @@
-$rojo : pink;
+@use 'base';
+@use 'layout';
 
-body{
-    background-color: $rojo;
-}
